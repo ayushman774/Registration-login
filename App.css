@@ -1,0 +1,158 @@
+html{
+  font-size:20px ;
+}
+
+/* REGISTRATION PAGE */
+
+.registration{
+  margin: 1rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+ul{
+  list-style: none;
+  padding: 1rem;
+  align-items: center;
+  margin-left: 25.5rem;
+}
+
+label.username{
+  position: absolute;
+  margin-left: -16rem;
+  font-size: 1.2rem;
+}
+
+.username{
+  text-align: center;
+  align-items: center;
+height: 1.5rem;
+width: 19rem;
+margin-left: -3.5rem;
+border-radius: .5rem;
+}
+
+label.contact{
+  position: absolute;
+  margin-left: -16rem;
+  font-size: 1.2rem;
+}
+
+.contact{
+  margin-top: .5rem;
+  text-align: center;
+  align-items: center;
+height: 1.5rem;
+width: 19rem;
+margin-left: -3.5rem;
+border-radius: .5rem;
+}
+
+label.email{
+  position: absolute;
+  margin-left: -16rem;
+  font-size: 1.2rem;
+}
+
+.email{
+  margin-top: .5rem;
+  text-align: center;
+  align-items: center;
+height: 1.5rem;
+width: 19rem;
+margin-left: -3.5rem;
+border-radius: .5rem;
+white-space: 2rem;
+}
+
+label.password{
+  position: absolute;
+  margin-left: -18rem;
+  font-size: 1.2rem;
+}
+
+.password{
+  margin-top: .5rem;
+  text-align: center;
+  align-items: center;
+height: 1.5rem;
+width: 19rem;
+margin-left: -3.5rem;
+border-radius: .5rem;
+}
+
+.regBtn{
+  margin-top: -0.2rem;
+  height: 2.5rem;
+  margin-left: 30rem;
+  width: 5rem;
+  font-size: 1rem;
+  border-radius: 1rem;
+}
+
+.already{
+  margin-top: 2rem;
+  margin-left: 29rem;
+  font-size: 0.8rem;
+}
+
+/* LOGIN PAGE */
+
+.login{
+  margin-left: 31rem;
+ font-size: 2rem;
+}
+
+label.logEmail{
+  position: absolute;
+  margin-left: -12rem;
+  font-size: 1.2rem;
+}
+
+.logEmail{
+  margin-top: .5rem;
+  text-align: center;
+  align-items: center;
+height: 1.5rem;
+width: 19rem;
+border-radius: .5rem;
+  height: 1.25rem;
+  width: 16rem;
+  margin-left: -0.8rem;
+}
+
+label.logPassword{
+  position: absolute;
+  margin-left: -12rem;
+  font-size: 1.2rem;
+}
+
+.logPassword{margin-top: .5rem;
+  text-align: center;
+  align-items: center;
+height: 1.5rem;
+width: 19rem;
+border-radius: .5rem;
+  height: 1.25rem;
+  width: 16rem;
+  margin-left: -0.8rem;
+}
+
+.logBtn{
+  margin-top: 1.8rem;
+  height: 2.5rem;
+  margin-left: 5.5rem;
+  width: 5rem;
+  font-size: 1rem;
+  border-radius: 1rem;
+}
+
+.forget{
+  margin-left: 31rem;
+}
+
+.account{
+  position: absolute;
+  margin-top: 2rem;
+  margin-left: -12rem;
+}
